@@ -1,4 +1,4 @@
-# Online Store Website
+# Online Store
 
 This repository contains the source code for my online store website. The website is live at [https://sailalithmanas2020.wixsite.com/online-stores](https://sailalithmanas2020.wixsite.com/online-stores).
 
